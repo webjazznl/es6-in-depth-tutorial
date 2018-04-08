@@ -1,1 +1,1 @@
-console.log("Hello from JavaScript");
+document.getElementById('example').innerHTML = "Henk Rules!"
